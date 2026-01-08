@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+My name is Lucky, I'm a data analyst based in the UK
+
+I like to explore and interpret many different datasets(though I prefer ones centered around the energy industry)
+
+The tools of my trade are PostgreSQL, PowerBI, Python and Excel. I use the PgAdmin4 and Pycharm tech stack for sql and python respectively.
+
+🔭Currently working on a project that combines PostgreSQL and PowerBI to create report on the UK's energy demand with a dataset obtained from the NESO.
+ 
+
 <!--
 **Lonelyduck-tba/Lonelyduck-tba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
